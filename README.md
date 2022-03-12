@@ -1,2 +1,6 @@
 # eloungediscordbot
-Discord Bot for e-Lounge
+Discord Bot for E-Lounge Discord server.
+
+🔗: https://discord.gg/6EcVGEunAK
+
+
